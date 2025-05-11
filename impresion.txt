@@ -1,0 +1,14 @@
+================================
+     Papeleria                  
+                                
+Chocolates, Regalos y algo mas A
+ direccion                      
+ codigo postal y rf             
+Fecha: 16-05-2024 Hora: 09:07   
+Numero de Venta: 19             
+Le atendio : 1                  
+                                
+================================
+DESCRIPCION CANT PRECIO IMPORTE 
+                                
+SCANNER      1       400     400
